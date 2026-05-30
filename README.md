@@ -40,20 +40,6 @@ Admin Dashboard
 
 ---
 
-## 📂 Project Structure
-
-```bash
-SmartSlot/
-│── frontend/
-│── backend/
-│── database/
-│── sensors/
-│── docs/
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Clone Repository
